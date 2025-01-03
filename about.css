@@ -1,0 +1,29 @@
+#about {
+    padding: 20px;
+    background-color:cadetblue;
+    text-align: center;
+}
+
+#about h2 {
+    margin-bottom: 10px;
+}
+
+#about p {
+    max-width: 600px;
+   
+    margin: 10px auto;
+}
+#paragraph p {
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font: bolder;
+    font-size: larger;
+    text-align: center;
+}
+#paragraph hr{
+    margin-left: 10px;
+    margin-right: 20px;
+    color: cornflowerblue;
+}
